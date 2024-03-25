@@ -1,5 +1,5 @@
 
-
+file:///C:/Users/GOKHUL.K/Downloads/github-header-image%20(1).png
 ![Header]([file:///C:/Users/GOKHUL.K/Downloads/github-header-image%20(1).png])
 <h1 align="center">Hi 👋, I'm Gokhul Kooranchi</h1>
 <h3 align="center">A passionate Mern developer from India | Exploring Web3.0</h3>
